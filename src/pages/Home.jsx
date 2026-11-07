@@ -19,7 +19,7 @@ const BUSINESS_DATA = [
     titleLine1: "Real Estate",
     titleLine2: "& Construction",
     description:
-      "We provide complete Real Estate & Construction services including construction, apartment construction, house construction, property services, property buying and selling with agent services, lease arrangements, and property management.",
+      "We deliver comprehensive real estate and construction solutions tailored to the needs of individuals, investors, property owners, and businesses.Our services encompass residential and apartment construction, property development, property buying and selling, real estate agency and brokerage, leasing and rental arrangements, and professional property management.With a commitment to quality, integrity, and customer satisfaction, we strive to deliver reliable solutions, maximize property value, and build lasting relationships with our clients.",
   },
 
   {
@@ -29,7 +29,7 @@ const BUSINESS_DATA = [
     titleLine1: "Import",
     titleLine2: "& Export",
     description:
-      "Our import and export services cover vehicle imports, vehicle spare parts importing and general export services, creating reliable solutions for businesses and customers across different markets.",
+      "A&Y Consolidated (Pvt) Ltd provides reliable import and export solutions, specializing in vehicle imports, automotive spare parts, and general export services to meet diverse customer and business needs across international markets.",
   },
 
   {
@@ -39,7 +39,7 @@ const BUSINESS_DATA = [
     titleLine1: "Trading",
     titleLine2: "& Distribution",
     description:
-      "From construction materials and garment items to vehicle spare parts, we provide buying, selling and wholesale distribution services designed to connect essential products with the markets that need them.",
+      "A&Y Consolidated (Pvt) Ltd offers comprehensive trading and distribution services, specialising in building materials, housing interiors, garments, and automotive spare parts through reliable sourcing for wholesale solutions.",
   },
 ];
 
